@@ -1,1 +1,1 @@
-# hypixel-stats-sheet
+# Hypixel Player Searcher Google Spreadsheet
