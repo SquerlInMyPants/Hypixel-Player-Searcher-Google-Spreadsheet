@@ -1,6 +1,6 @@
 /*
-Returns UUID
-@CustomFunction
+ *Returns UUID
+ *@CustomFunction
 **/
 function GetUUID(UserName) {
   var fetchapi = UrlFetchApp.fetch("https://api.mojang.com/users/profiles/minecraft/"+UserName);
