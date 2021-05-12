@@ -8,3 +8,8 @@ API's used in the SpreadSheet.
 
 Generators used in the SpreadSheet.
 * [Plancke](https://plancke.io/hypixel/generators/)
+
+
+Spreadsheet Files.
+* [Mojang API](https://plancke.io/hypixel/generators/)
+* [Hypixel API](https://plancke.io/hypixel/generators/)
