@@ -11,5 +11,5 @@ Generators used in the SpreadSheet.
 
 
 Spreadsheet Files.
-* [Mojang API](https://github.com/SquerlInMyPants/Hypixel-Player-Searcher-Google-Spreadsheet/blob/main/Hypixel%20Api.gs)
-* [Hypixel API](https://github.com/SquerlInMyPants/Hypixel-Player-Searcher-Google-Spreadsheet/blob/main/Mojang%20Api.gs)
+* [Mojang API](https://github.com/SquerlInMyPants/Hypixel-Player-Searcher-Google-Spreadsheet/blob/main/Mojang%20API.gs)
+* [Hypixel API](https://github.com/SquerlInMyPants/Hypixel-Player-Searcher-Google-Spreadsheet/blob/main/Hypixel%20Api.gs)
