@@ -2,6 +2,7 @@
 API's used in the SpreadSheet.
 
 * [Mojang Api](https://wiki.vg/Mojang_API)
+* [Hypixel Api](https://api.hypixel.net/)
 * [SkyCrypt Api](https://sky.shiiyu.moe/api)
 
 
