@@ -6,7 +6,6 @@ API's used in the SpreadSheet.
 * [SkyCrypt Api](https://sky.shiiyu.moe/api)
 
 
-
 Generators used in the SpreadSheet.
 * [Plancke](https://plancke.io/hypixel/generators/)
 
@@ -17,4 +16,5 @@ Spreadsheet Files.
 
 
 
-* [Forum Post Link!](https://hypixel.net/threads/hypixel-player-searcher-v0-0-2-alpha-spreadsheet-new-action-viewer.4040007/)
+# Forms Post Link With Copy!
+* [Link!](https://hypixel.net/threads/hypixel-player-searcher-v0-0-2-alpha-spreadsheet-new-action-viewer.4040007/)
