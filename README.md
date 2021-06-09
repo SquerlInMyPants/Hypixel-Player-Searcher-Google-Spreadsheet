@@ -14,3 +14,7 @@ Generators used in the SpreadSheet.
 Spreadsheet Files.
 * [Mojang API](https://github.com/SquerlInMyPants/Hypixel-Player-Searcher-Google-Spreadsheet/blob/main/Mojang%20API.gs)
 * [Hypixel API](https://github.com/SquerlInMyPants/Hypixel-Player-Searcher-Google-Spreadsheet/blob/main/Hypixel%20Api.gs)
+
+
+
+* [Forum Post Link!](https://hypixel.net/threads/hypixel-player-searcher-v0-0-2-alpha-spreadsheet-new-action-viewer.4040007/)
